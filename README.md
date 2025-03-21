@@ -32,7 +32,8 @@ plt.show()
 ```
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/2d117573-64b1-49c3-92a4-6335d404c32d)
+
+![image](https://github.com/user-attachments/assets/b0b9531e-9c0c-405c-9fe8-ecad7a8dc2cf)
 
 ### RESULT:
 Thus we have successfully implemented the auto correlation function in python.
